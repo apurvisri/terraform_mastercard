@@ -36,6 +36,9 @@ ELB SG - web_sg, sg of elb
 
 user_data.sh - php file
 
+Output file have:
+Instance private IP and elb dns address
+
 variables:
 network_cidr
 availability_zones
