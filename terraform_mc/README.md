@@ -1,3 +1,5 @@
+Terraform version used: Terraform v0.13.4
+
 Terraform a Web App on AWS:
 
 This Terraform deploys a web application to AWS. It uses EC2, Load Balancer, EBS and VPC services. It created 2 EC2 instances t2.micro on region ap-south-1. Web application can be accessable by DNS on load balancer used.
